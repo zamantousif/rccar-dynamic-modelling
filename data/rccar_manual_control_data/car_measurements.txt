@@ -1,0 +1,24 @@
+Length:
+50.5cm front bumper to rear bumper
+47cm front bumper to rear tire
+42.5 front tire to rear tire
+
+18cm x 20cm second box
+18cm x 26cm second box (including lidar)
+
+Breadth:
+28.7cm front tire end to end
+29cm rear tire end to end
+
+Track Width = 25cm
+Wheel base = 32.5cm
+
+Height:
+13cm to first base
+7.7cm further to second base
+11cm to max height (when including heat sink)
+
+Weight:4.2kg
+Without car = 70.2kg
+With car = 74.4kg
+Weight of car = 4.4 - 0.2 = 4.2kg
